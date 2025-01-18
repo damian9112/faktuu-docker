@@ -1,0 +1,9 @@
+# Ignorowanie plików tymczasowych
+*.log
+*.tmp
+
+# Ignorowanie katalogu build
+/build/
+
+# Ignorowanie plików konfiguracyjnych
+*.env
